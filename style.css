@@ -1,0 +1,37 @@
+.naglowek{
+    width: 1852px;
+    height: 150px;
+    border: solid black 2px;
+    background-color:purple;
+}
+.lewa{
+ width: 175px;
+ height: 640px;  
+ border: solid black 2px; 
+ float: left;
+ background-color:blueviolet;
+}
+.prawa{
+width: 175px;
+height: 640px;
+border: solid black 2px;
+float: right;
+background-color:blueviolet ;
+}
+.box{
+    width: 1856px;
+    height: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: azure;
+}
+.podstawa{
+width: 1852px;
+height: 150px;
+border: solid black 2px;
+float: left;
+display: flex;
+clear: both;
+background-color: purple;
+text-align: center;
+}
